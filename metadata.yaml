@@ -1,0 +1,23 @@
+_repo: The-Shetland-Pony_59957
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Douglas, Charles L.
+    gutenberg_agent_id: '39735'
+    url: http://www.gutenberg.org/2009/agents/39735
+  - agent_name: Douglas, Anne
+    gutenberg_agent_id: '50710'
+    url: http://www.gutenberg.org/2009/agents/50710
+description: ''
+gutenberg_issued: '2019-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Shetland Pony
+url: http://www.gutenberg.org/ebooks/59957
